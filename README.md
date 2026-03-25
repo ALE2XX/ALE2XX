@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alex Quevedo
+# 🕵️ Alex Quevedo
 
 **`Desenvolvedor Front-end - Futuro FullStack`**
 
