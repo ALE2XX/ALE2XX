@@ -4,13 +4,6 @@
 
 Me chamo Alexsander Quevedo, tenho 22 anos e sou natural do Rio Grande do Sul, mas cresci desde os meus 2 anos de idade em Florianópolis. Concluí o ensino médio em escola estadual, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus repositórios, onde aplico e crio projetos web.
 
-    <a href="https://github.com/ALE2XX?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ALE2XX?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/ALE2XX?tab=followers">
         <img 
             alt="Seguidores" 
