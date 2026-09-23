@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end - Futuro FullStack`**
 
-Me chamo Alexsander Quevedo, tenho 22 anos e sou natural do Rio Grande do Sul, mas cresci desde os meus 2 anos de idade em Florianópolis. Concluí o ensino médio em escola estadual, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus repositórios, onde aplico e crio projetos web.
+Me chamo Alexsander Quevedo, tenho 22 anos e sou natural do Rio Grande do Sul, mas cresci desde os meus 2 anos de idade em Florianópolis. Concluí o ensino médio em escola estadual, com cursos técnicos em informática (Pacote Office), Programação de Computadores (Jovem Programador SENAC) e Assistente Administrativo (SENAC). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus repositórios, onde aplico e crio projetos web.
 
 ---
 ### 🤖 Linguagens e Tecnologias
